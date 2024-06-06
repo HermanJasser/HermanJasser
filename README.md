@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Herman Trane Jasser</h1>
 <h3 align="center">A dedicated frontend developer from Norway.</h3>
 
-- 🔭 I’m currently working on [Landsforening mot seksuelle overgrep](https://lmso.no/)
+- 🔭 I’m currently working on the website for [Landsforening mot seksuelle overgrep](https://lmso.no/)
 
 - 🌱 I’m currently learning more about **JavaScript**
 

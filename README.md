@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my **React** skills
 
-- 🌱 I’m currently learning more about **JavaScript**
+- 🌱 I’m currently learning more about **Claude**
 
 - 📫 How to reach me **hermanjasser@live.com**
 
